@@ -1,5 +1,5 @@
 # Winter Break Project
-You goal will be to choose an old project that you haven't had a chance to finish (it can either be a project you started in class, or a side project you started on your own) and keep working on your project to try to complete it. Everyone will be presenting their project to the class after break.
+You goal will be to choose an old project that you haven't had a chance to finish (it can either be a project you started in class, or a side project you started on your own) and keep working on your project, individually, to try to complete it. Everyone will be presenting their project to the class after break (there will be prizes!).
 
 After break we will be learning more about project management and will be doing group projects pretty much until the end of the course. Think of this as a test run to practice project management, scoping out projects, trying to set realistic goals, and then executing on them. This will also be a good chance to start practicing creating a polished product demo, before we get to Capstone demos.
 
