@@ -5,9 +5,9 @@ After break we will be learning more about project management and will be doing 
 
 ## Instructions
 1. Start off by looking through old projects and choosing the one that you would like to focus on
-1. Once you have chosen your project, create goals for what you would like to complete over break. Be specific. For example, what features would you like to add? What would you like to change? Come up with a plan of action and write it down.
-1. Setup a way to track your progress and help yourself manage your project. Some potentially helpful tools are:[Github Issues](https://guides.github.com/features/issues/), [waffle.io](https://waffle.io/), and [Trello](https://trello.com/), but it is ultimately up to you what system you use.
-1. After you have decided on those three steps, fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdSh9DlmwXQSftpliSh8U9HbmfQAqMODnfqRm2uh6Yl22bZ7A/viewform) with your plans.
+1. Once you have chosen your project, create goals for what you would like to complete over break. Be specific. For example, what features would you like to add? What would you like to refactor? What bugs would you like to fix? Come up with a plan of action and write it down.
+1. Setup a project management board for your project using [waffle.io](https://waffle.io/) and start prioritizing your goals. Also add a time estimate for how long you think each one will take to complete.
+1. After you have completed those three steps, fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdSh9DlmwXQSftpliSh8U9HbmfQAqMODnfqRm2uh6Yl22bZ7A/viewform) with your plans.
 
 ## Technical Requirements
 - you must use git and github
